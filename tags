@@ -1,0 +1,338 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APPLICATION_ATOM_XML	er-coap-13.h	/^    APPLICATION_ATOM_XML = 45,$/;"	e	enum:__anon6
+APPLICATION_EXI	er-coap-13.h	/^  APPLICATION_EXI = 47,$/;"	e	enum:__anon6
+APPLICATION_FASTINFOSET	er-coap-13.h	/^    APPLICATION_FASTINFOSET = 48,$/;"	e	enum:__anon6
+APPLICATION_JSON	er-coap-13.h	/^  APPLICATION_JSON = 50,$/;"	e	enum:__anon6
+APPLICATION_LINK_FORMAT	er-coap-13.h	/^  APPLICATION_LINK_FORMAT = 40,$/;"	e	enum:__anon6
+APPLICATION_OCTET_STREAM	er-coap-13.h	/^  APPLICATION_OCTET_STREAM = 42,$/;"	e	enum:__anon6
+APPLICATION_RDF_XML	er-coap-13.h	/^    APPLICATION_RDF_XML = 43,$/;"	e	enum:__anon6
+APPLICATION_SOAP_FASTINFOSET	er-coap-13.h	/^    APPLICATION_SOAP_FASTINFOSET = 49,$/;"	e	enum:__anon6
+APPLICATION_SOAP_XML	er-coap-13.h	/^    APPLICATION_SOAP_XML = 44,$/;"	e	enum:__anon6
+APPLICATION_XML	er-coap-13.h	/^  APPLICATION_XML = 41,$/;"	e	enum:__anon6
+APPLICATION_XMPP_XML	er-coap-13.h	/^    APPLICATION_XMPP_XML = 46,$/;"	e	enum:__anon6
+APPLICATION_X_OBIX_BINARY	er-coap-13.h	/^    APPLICATION_X_OBIX_BINARY = 51$/;"	e	enum:__anon6
+AUDIO_RAW	er-coap-13.h	/^    AUDIO_RAW = 25,$/;"	e	enum:__anon6
+BAD_GATEWAY_5_02	er-coap-13.h	/^  BAD_GATEWAY_5_02 = 162,               \/* BAD_GATEWAY *\/$/;"	e	enum:__anon4
+BAD_OPTION_4_02	er-coap-13.h	/^  BAD_OPTION_4_02 = 130,                \/* BAD_OPTION *\/$/;"	e	enum:__anon4
+BAD_REQUEST_4_00	er-coap-13.h	/^  BAD_REQUEST_4_00 = 128,               \/* BAD_REQUEST *\/$/;"	e	enum:__anon4
+CHANGED_2_04	er-coap-13.h	/^  CHANGED_2_04 = 68,                    \/* CHANGED *\/$/;"	e	enum:__anon4
+COAP_13_H_	er-coap-13.h	40;"	d
+COAP_BLOCKING_REQUEST	er-coap-13-engine.h	83;"	d
+COAP_DEFAULT_MAX_AGE	er-coap-13.h	54;"	d
+COAP_DEFAULT_PORT	er-coap-13.h	48;"	d
+COAP_DELETE	er-coap-13.h	/^  COAP_DELETE$/;"	e	enum:__anon3
+COAP_ETAG_LEN	er-coap-13.h	60;"	d
+COAP_GET	er-coap-13.h	/^  COAP_GET = 1,$/;"	e	enum:__anon3
+COAP_HEADER_LEN	er-coap-13.h	59;"	d
+COAP_HEADER_OPTION_DELTA_MASK	er-coap-13.h	71;"	d
+COAP_HEADER_OPTION_SHORT_LENGTH_MASK	er-coap-13.h	72;"	d
+COAP_HEADER_TOKEN_LEN_MASK	er-coap-13.h	68;"	d
+COAP_HEADER_TOKEN_LEN_POSITION	er-coap-13.h	69;"	d
+COAP_HEADER_TYPE_MASK	er-coap-13.h	66;"	d
+COAP_HEADER_TYPE_POSITION	er-coap-13.h	67;"	d
+COAP_HEADER_VERSION_MASK	er-coap-13.h	64;"	d
+COAP_HEADER_VERSION_POSITION	er-coap-13.h	65;"	d
+COAP_LINK_FORMAT_FILTERING	er-coap-13.h	46;"	d
+COAP_MAX_ACCEPT_NUM	er-coap-13.h	62;"	d
+COAP_MAX_ATTEMPTS	er-coap-13.h	92;"	d
+COAP_MAX_HEADER_SIZE	er-coap-13.h	79;"	d
+COAP_MAX_OBSERVERS	er-coap-13-observing.h	47;"	d
+COAP_MAX_OPEN_TRANSACTIONS	er-coap-13-transactions.h	48;"	d
+COAP_MAX_PACKET_SIZE	er-coap-13.h	82;"	d
+COAP_MAX_RETRANSMIT	er-coap-13.h	57;"	d
+COAP_OBSERVING_H_	er-coap-13-observing.h	40;"	d
+COAP_OBSERVING_REFRESH_INTERVAL	er-coap-13-observing.h	51;"	d
+COAP_OPTION_ACCEPT	er-coap-13.h	/^  COAP_OPTION_ACCEPT = 16,        \/* 0-2 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_BLOCK1	er-coap-13.h	/^  COAP_OPTION_BLOCK1 = 27,        \/* 1-3 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_BLOCK2	er-coap-13.h	/^  COAP_OPTION_BLOCK2 = 23,        \/* 1-3 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_CONTENT_TYPE	er-coap-13.h	/^  COAP_OPTION_CONTENT_TYPE = 12,  \/* 0-2 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_ETAG	er-coap-13.h	/^  COAP_OPTION_ETAG = 4,           \/* 1-8 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_IF_MATCH	er-coap-13.h	/^  COAP_OPTION_IF_MATCH = 1,       \/* 0-8 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_IF_NONE_MATCH	er-coap-13.h	/^  COAP_OPTION_IF_NONE_MATCH = 5,  \/* 0 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_LOCATION_PATH	er-coap-13.h	/^  COAP_OPTION_LOCATION_PATH = 8,  \/* 0-255 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_LOCATION_QUERY	er-coap-13.h	/^  COAP_OPTION_LOCATION_QUERY = 20, \/* 1-270 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_MAX_AGE	er-coap-13.h	/^  COAP_OPTION_MAX_AGE = 14,       \/* 0-4 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_OBSERVE	er-coap-13.h	/^  COAP_OPTION_OBSERVE = 6,        \/* 0-3 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_PROXY_URI	er-coap-13.h	/^  COAP_OPTION_PROXY_URI = 35,     \/* 1-270 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_SIZE	er-coap-13.h	/^  COAP_OPTION_SIZE = 28,          \/* 0-4 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_URI_HOST	er-coap-13.h	/^  COAP_OPTION_URI_HOST = 3,       \/* 1-255 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_URI_PATH	er-coap-13.h	/^  COAP_OPTION_URI_PATH = 11,      \/* 0-255 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_URI_PORT	er-coap-13.h	/^  COAP_OPTION_URI_PORT = 7,       \/* 0-2 B *\/$/;"	e	enum:__anon5
+COAP_OPTION_URI_QUERY	er-coap-13.h	/^  COAP_OPTION_URI_QUERY = 15,     \/* 0-270 B *\/$/;"	e	enum:__anon5
+COAP_POST	er-coap-13.h	/^  COAP_POST,$/;"	e	enum:__anon3
+COAP_PUT	er-coap-13.h	/^  COAP_PUT,$/;"	e	enum:__anon3
+COAP_RESPONSE_RANDOM_FACTOR	er-coap-13.h	56;"	d
+COAP_RESPONSE_TIMEOUT	er-coap-13.h	55;"	d
+COAP_RESPONSE_TIMEOUT_BACKOFF_MASK	er-coap-13-transactions.c	50;"	d	file:
+COAP_RESPONSE_TIMEOUT_TICKS	er-coap-13-transactions.c	49;"	d	file:
+COAP_SEPARATE_H_	er-coap-13-separate.h	40;"	d
+COAP_SERIALIZE_ACCEPT_OPTION	er-coap-13.h	287;"	d
+COAP_SERIALIZE_BLOCK_OPTION	er-coap-13.h	297;"	d
+COAP_SERIALIZE_BYTE_OPTION	er-coap-13.h	266;"	d
+COAP_SERIALIZE_INT_OPTION	er-coap-13.h	260;"	d
+COAP_SERIALIZE_STRING_OPTION	er-coap-13.h	281;"	d
+COAP_SERVER_H_	er-coap-13-engine.h	40;"	d
+COAP_SERVER_PORT	er-coap-13.h	51;"	d
+COAP_TOKEN_LEN	er-coap-13.h	61;"	d
+COAP_TRANSACTIONS_H_	er-coap-13-transactions.h	40;"	d
+COAP_TYPE_ACK	er-coap-13.h	/^  COAP_TYPE_ACK, \/* acknowledgements *\/$/;"	e	enum:__anon2
+COAP_TYPE_CON	er-coap-13.h	/^  COAP_TYPE_CON, \/* confirmables *\/$/;"	e	enum:__anon2
+COAP_TYPE_NON	er-coap-13.h	/^  COAP_TYPE_NON, \/* non-confirmables *\/$/;"	e	enum:__anon2
+COAP_TYPE_RST	er-coap-13.h	/^  COAP_TYPE_RST  \/* reset *\/$/;"	e	enum:__anon2
+CONTENT_2_05	er-coap-13.h	/^  CONTENT_2_05 = 69,                    \/* OK *\/$/;"	e	enum:__anon4
+CREATED_2_01	er-coap-13.h	/^  CREATED_2_01 = 65,                    \/* CREATED *\/$/;"	e	enum:__anon4
+DEBUG	er-coap-13-engine.c	47;"	d	file:
+DEBUG	er-coap-13-observing.c	44;"	d	file:
+DEBUG	er-coap-13-separate.c	45;"	d	file:
+DEBUG	er-coap-13-transactions.c	52;"	d	file:
+DEBUG	er-coap-13.c	48;"	d	file:
+DELETED_2_02	er-coap-13.h	/^  DELETED_2_02 = 66,                    \/* DELETED *\/$/;"	e	enum:__anon4
+FORBIDDEN_4_03	er-coap-13.h	/^  FORBIDDEN_4_03 = 131,                 \/* FORBIDDEN *\/$/;"	e	enum:__anon4
+GATEWAY_TIMEOUT_5_04	er-coap-13.h	/^  GATEWAY_TIMEOUT_5_04 = 164,           \/* GATEWAY_TIMEOUT *\/$/;"	e	enum:__anon4
+IMAGE_GIF	er-coap-13.h	/^    IMAGE_GIF = 21,$/;"	e	enum:__anon6
+IMAGE_JPEG	er-coap-13.h	/^    IMAGE_JPEG = 22,$/;"	e	enum:__anon6
+IMAGE_PNG	er-coap-13.h	/^    IMAGE_PNG = 23,$/;"	e	enum:__anon6
+IMAGE_TIFF	er-coap-13.h	/^    IMAGE_TIFF = 24,$/;"	e	enum:__anon6
+INTERNAL_SERVER_ERROR_5_00	er-coap-13.h	/^  INTERNAL_SERVER_ERROR_5_00 = 160,     \/* INTERNAL_SERVER_ERROR *\/$/;"	e	enum:__anon4
+IS_OPTION	er-coap-13.h	101;"	d
+MANUAL_RESPONSE	er-coap-13.h	/^  MANUAL_RESPONSE,$/;"	e	enum:__anon4
+MEMORY_ALLOCATION_ERROR	er-coap-13.h	/^  MEMORY_ALLOCATION_ERROR = 192,$/;"	e	enum:__anon4
+METHOD_NOT_ALLOWED_4_05	er-coap-13.h	/^  METHOD_NOT_ALLOWED_4_05 = 133,        \/* METHOD_NOT_ALLOWED *\/$/;"	e	enum:__anon4
+MIN	er-coap-13.h	104;"	d
+NOT_ACCEPTABLE_4_06	er-coap-13.h	/^  NOT_ACCEPTABLE_4_06 = 134,            \/* NOT_ACCEPTABLE *\/$/;"	e	enum:__anon4
+NOT_FOUND_4_04	er-coap-13.h	/^  NOT_FOUND_4_04 = 132,                 \/* NOT_FOUND *\/$/;"	e	enum:__anon4
+NOT_IMPLEMENTED_5_01	er-coap-13.h	/^  NOT_IMPLEMENTED_5_01 = 161,           \/* NOT_IMPLEMENTED *\/$/;"	e	enum:__anon4
+NO_ERROR	er-coap-13.h	/^  NO_ERROR = 0,$/;"	e	enum:__anon4
+OPTION_MAP_SIZE	er-coap-13.h	/^enum { OPTION_MAP_SIZE = sizeof(uint8_t) * 8 };$/;"	e	enum:__anon1
+PACKET_SERIALIZATION_ERROR	er-coap-13.h	/^  PACKET_SERIALIZATION_ERROR,$/;"	e	enum:__anon4
+PING_RESPONSE	er-coap-13.h	/^  PING_RESPONSE$/;"	e	enum:__anon4
+PRECONDITION_FAILED_4_12	er-coap-13.h	/^  PRECONDITION_FAILED_4_12 = 140,       \/* BAD_REQUEST *\/$/;"	e	enum:__anon4
+PRINT6ADDR	er-coap-13-engine.c	50;"	d	file:
+PRINT6ADDR	er-coap-13-engine.c	63;"	d	file:
+PRINT6ADDR	er-coap-13-observing.c	47;"	d	file:
+PRINT6ADDR	er-coap-13-observing.c	51;"	d	file:
+PRINT6ADDR	er-coap-13-separate.c	48;"	d	file:
+PRINT6ADDR	er-coap-13-separate.c	52;"	d	file:
+PRINT6ADDR	er-coap-13-transactions.c	56;"	d	file:
+PRINT6ADDR	er-coap-13-transactions.c	60;"	d	file:
+PRINT6ADDR	er-coap-13.c	52;"	d	file:
+PRINT6ADDR	er-coap-13.c	56;"	d	file:
+PRINTBITS	er-coap-13-engine.c	52;"	d	file:
+PRINTBITS	er-coap-13-engine.c	65;"	d	file:
+PRINTF	er-coap-13-engine.c	49;"	d	file:
+PRINTF	er-coap-13-engine.c	62;"	d	file:
+PRINTF	er-coap-13-observing.c	46;"	d	file:
+PRINTF	er-coap-13-observing.c	50;"	d	file:
+PRINTF	er-coap-13-separate.c	47;"	d	file:
+PRINTF	er-coap-13-separate.c	51;"	d	file:
+PRINTF	er-coap-13-transactions.c	55;"	d	file:
+PRINTF	er-coap-13-transactions.c	59;"	d	file:
+PRINTF	er-coap-13.c	51;"	d	file:
+PRINTF	er-coap-13.c	55;"	d	file:
+PRINTLLADDR	er-coap-13-engine.c	51;"	d	file:
+PRINTLLADDR	er-coap-13-engine.c	64;"	d	file:
+PRINTLLADDR	er-coap-13-observing.c	48;"	d	file:
+PRINTLLADDR	er-coap-13-observing.c	52;"	d	file:
+PRINTLLADDR	er-coap-13-separate.c	49;"	d	file:
+PRINTLLADDR	er-coap-13-separate.c	53;"	d	file:
+PRINTLLADDR	er-coap-13-transactions.c	57;"	d	file:
+PRINTLLADDR	er-coap-13-transactions.c	61;"	d	file:
+PRINTLLADDR	er-coap-13.c	53;"	d	file:
+PRINTLLADDR	er-coap-13.c	57;"	d	file:
+PROCESS_THREAD	er-coap-13-engine.c	/^PROCESS_THREAD(coap_receiver, ev, data)$/;"	f
+PROXYING_NOT_SUPPORTED_5_05	er-coap-13.h	/^  PROXYING_NOT_SUPPORTED_5_05 = 165,    \/* PROXYING_NOT_SUPPORTED *\/$/;"	e	enum:__anon4
+REQUEST_ENTITY_TOO_LARGE_4_13	er-coap-13.h	/^  REQUEST_ENTITY_TOO_LARGE_4_13 = 141,  \/* REQUEST_ENTITY_TOO_LARGE *\/$/;"	e	enum:__anon4
+SERVER_LISTEN_PORT	er-coap-13-engine.h	56;"	d
+SERVICE_UNAVAILABLE_5_03	er-coap-13.h	/^  SERVICE_UNAVAILABLE_5_03 = 163,       \/* SERVICE_UNAVAILABLE *\/$/;"	e	enum:__anon4
+SET_OPTION	er-coap-13.h	100;"	d
+TEXT_CSV	er-coap-13.h	/^    TEXT_CSV = 2,$/;"	e	enum:__anon6
+TEXT_HTML	er-coap-13.h	/^    TEXT_HTML = 3,$/;"	e	enum:__anon6
+TEXT_PLAIN	er-coap-13.h	/^  TEXT_PLAIN = 0,$/;"	e	enum:__anon6
+TEXT_XML	er-coap-13.h	/^    TEXT_XML = 1, \/* Indented types are not in the initial registry. *\/$/;"	e	enum:__anon6
+UIP_IP_BUF	er-coap-13.h	95;"	d
+UIP_UDP_BUF	er-coap-13.h	96;"	d
+UNAUTHORIZED_4_01	er-coap-13.h	/^  UNAUTHORIZED_4_01 = 129,              \/* UNAUTHORIZED *\/$/;"	e	enum:__anon4
+UNSUPPORTED_MEDIA_TYPE_4_15	er-coap-13.h	/^  UNSUPPORTED_MEDIA_TYPE_4_15 = 143,    \/* UNSUPPORTED_MEDIA_TYPE *\/$/;"	e	enum:__anon4
+VALID_2_03	er-coap-13.h	/^  VALID_2_03 = 67,                      \/* NOT_MODIFIED *\/$/;"	e	enum:__anon4
+VIDEO_RAW	er-coap-13.h	/^    VIDEO_RAW = 26,$/;"	e	enum:__anon6
+accept	er-coap-13.h	/^  uint16_t accept[COAP_MAX_ACCEPT_NUM];$/;"	m	struct:__anon7
+accept_num	er-coap-13.h	/^  uint8_t accept_num;$/;"	m	struct:__anon7
+addr	er-coap-13-observing.h	/^  uip_ipaddr_t addr;$/;"	m	struct:coap_observer
+addr	er-coap-13-separate.h	/^  uip_ipaddr_t addr;$/;"	m	struct:coap_separate
+addr	er-coap-13-transactions.h	/^  uip_ipaddr_t addr;$/;"	m	struct:coap_transaction
+block1_more	er-coap-13.h	/^  uint8_t block1_more;$/;"	m	struct:__anon7
+block1_num	er-coap-13.h	/^  uint32_t block1_num;$/;"	m	struct:__anon7
+block1_offset	er-coap-13.h	/^  uint32_t block1_offset;$/;"	m	struct:__anon7
+block1_size	er-coap-13.h	/^  uint16_t block1_size;$/;"	m	struct:__anon7
+block2_more	er-coap-13.h	/^  uint8_t block2_more;$/;"	m	struct:__anon7
+block2_num	er-coap-13-separate.h	/^  uint32_t block2_num;$/;"	m	struct:coap_separate
+block2_num	er-coap-13.h	/^  uint32_t block2_num;$/;"	m	struct:__anon7
+block2_offset	er-coap-13.h	/^  uint32_t block2_offset;$/;"	m	struct:__anon7
+block2_size	er-coap-13-separate.h	/^  uint16_t block2_size;$/;"	m	struct:coap_separate
+block2_size	er-coap-13.h	/^  uint16_t block2_size;$/;"	m	struct:__anon7
+block_num	er-coap-13-engine.h	/^    uint32_t block_num;$/;"	m	struct:request_state_t
+blocking_response_handler	er-coap-13-engine.h	/^typedef void (*blocking_response_handler) (void* response);$/;"	t
+buffer	er-coap-13.h	/^  uint8_t *buffer; \/* pointer to CoAP header \/ incoming packet buffer \/ memory to serialize packet *\/$/;"	m	struct:__anon7
+callback	er-coap-13-transactions.h	/^  restful_response_handler callback;$/;"	m	struct:coap_transaction
+callback_data	er-coap-13-transactions.h	/^  void *callback_data;$/;"	m	struct:coap_transaction
+coap_add_observer	er-coap-13-observing.c	/^coap_add_observer(uip_ipaddr_t *addr, uint16_t port, const uint8_t *token, size_t token_len, const char *url)$/;"	f
+coap_blocking_request	er-coap-13-engine.c	/^PT_THREAD(coap_blocking_request(struct request_state_t *state, process_event_t ev,$/;"	f
+coap_blocking_request_callback	er-coap-13-engine.c	/^void coap_blocking_request_callback(void *callback_data, void *response) {$/;"	f
+coap_check_transactions	er-coap-13-transactions.c	/^coap_check_transactions()$/;"	f
+coap_clear_transaction	er-coap-13-transactions.c	/^coap_clear_transaction(coap_transaction_t *t)$/;"	f
+coap_content_type_t	er-coap-13.h	/^} coap_content_type_t;$/;"	t	typeref:enum:__anon6
+coap_error_code	er-coap-13.c	/^coap_status_t coap_error_code = NO_ERROR;$/;"	v
+coap_error_message	er-coap-13.c	/^char *coap_error_message = "";$/;"	v
+coap_get_header_accept	er-coap-13.c	/^coap_get_header_accept(void *packet, const uint16_t **accept)$/;"	f
+coap_get_header_block1	er-coap-13.c	/^coap_get_header_block1(void *packet, uint32_t *num, uint8_t *more, uint16_t *size, uint32_t *offset)$/;"	f
+coap_get_header_block2	er-coap-13.c	/^coap_get_header_block2(void *packet, uint32_t *num, uint8_t *more, uint16_t *size, uint32_t *offset)$/;"	f
+coap_get_header_content_type	er-coap-13.c	/^coap_get_header_content_type(void *packet)$/;"	f
+coap_get_header_etag	er-coap-13.c	/^coap_get_header_etag(void *packet, const uint8_t **etag)$/;"	f
+coap_get_header_if_match	er-coap-13.c	/^coap_get_header_if_match(void *packet, const uint8_t **etag)$/;"	f
+coap_get_header_if_none_match	er-coap-13.c	/^coap_get_header_if_none_match(void *packet)$/;"	f
+coap_get_header_location_path	er-coap-13.c	/^coap_get_header_location_path(void *packet, const char **path)$/;"	f
+coap_get_header_location_query	er-coap-13.c	/^coap_get_header_location_query(void *packet, const char **query)$/;"	f
+coap_get_header_max_age	er-coap-13.c	/^coap_get_header_max_age(void *packet, uint32_t *age)$/;"	f
+coap_get_header_observe	er-coap-13.c	/^coap_get_header_observe(void *packet, uint32_t *observe)$/;"	f
+coap_get_header_proxy_uri	er-coap-13.c	/^coap_get_header_proxy_uri(void *packet, const char **uri)$/;"	f
+coap_get_header_size	er-coap-13.c	/^coap_get_header_size(void *packet, uint32_t *size)$/;"	f
+coap_get_header_token	er-coap-13.c	/^coap_get_header_token(void *packet, const uint8_t **token)$/;"	f
+coap_get_header_uri_host	er-coap-13.c	/^coap_get_header_uri_host(void *packet, const char **host)$/;"	f
+coap_get_header_uri_path	er-coap-13.c	/^coap_get_header_uri_path(void *packet, const char **path)$/;"	f
+coap_get_header_uri_query	er-coap-13.c	/^coap_get_header_uri_query(void *packet, const char **query)$/;"	f
+coap_get_mid	er-coap-13.c	/^coap_get_mid()$/;"	f
+coap_get_payload	er-coap-13.c	/^coap_get_payload(void *packet, const uint8_t **payload)$/;"	f
+coap_get_post_variable	er-coap-13.c	/^coap_get_post_variable(void *packet, const char *name, const char **output)$/;"	f
+coap_get_query_variable	er-coap-13.c	/^coap_get_query_variable(void *packet, const char *name, const char **output)$/;"	f
+coap_get_rest_method	er-coap-13-engine.c	/^coap_get_rest_method(void *packet)$/;"	f
+coap_get_transaction_by_mid	er-coap-13-transactions.c	/^coap_get_transaction_by_mid(uint16_t mid)$/;"	f
+coap_get_variable	er-coap-13.c	/^coap_get_variable(const char *buffer, size_t length, const char *name, const char **output)$/;"	f	file:
+coap_init_connection	er-coap-13.c	/^coap_init_connection(uint16_t port)$/;"	f
+coap_init_message	er-coap-13.c	/^coap_init_message(void *packet, coap_message_type_t type, uint8_t code, uint16_t mid)$/;"	f
+coap_log_2	er-coap-13.c	/^coap_log_2(uint16_t value)$/;"	f	file:
+coap_merge_multi_option	er-coap-13.c	/^coap_merge_multi_option(char **dst, size_t *dst_len, uint8_t *option, size_t option_len, char separator)$/;"	f	file:
+coap_message_type_t	er-coap-13.h	/^} coap_message_type_t;$/;"	t	typeref:enum:__anon2
+coap_method_t	er-coap-13.h	/^} coap_method_t;$/;"	t	typeref:enum:__anon3
+coap_new_transaction	er-coap-13-transactions.c	/^coap_new_transaction(uint16_t mid, uip_ipaddr_t *addr, uint16_t port)$/;"	f
+coap_notify_observers	er-coap-13-observing.c	/^coap_notify_observers(resource_t *resource, int32_t obs_counter, void *notification)$/;"	f
+coap_observe_handler	er-coap-13-observing.c	/^coap_observe_handler(resource_t *resource, void *request, void *response)$/;"	f
+coap_observer	er-coap-13-observing.h	/^typedef struct coap_observer {$/;"	s
+coap_observer_t	er-coap-13-observing.h	/^} coap_observer_t;$/;"	t	typeref:struct:coap_observer
+coap_option_nibble	er-coap-13.c	/^coap_option_nibble(unsigned int value)$/;"	f	file:
+coap_option_t	er-coap-13.h	/^} coap_option_t;$/;"	t	typeref:enum:__anon5
+coap_packet_t	er-coap-13.h	/^} coap_packet_t;$/;"	t	typeref:struct:__anon7
+coap_parse_int_option	er-coap-13.c	/^coap_parse_int_option(uint8_t *bytes, size_t length)$/;"	f	file:
+coap_parse_message	er-coap-13.c	/^coap_parse_message(void *packet, uint8_t *data, uint16_t data_len)$/;"	f
+coap_receive	er-coap-13-engine.c	/^coap_receive(void)$/;"	f	file:
+coap_receiver	er-coap-13-engine.h	/^PROCESS_NAME(coap_receiver);$/;"	v
+coap_receiver_init	er-coap-13-engine.c	/^coap_receiver_init()$/;"	f
+coap_register_as_transaction_handler	er-coap-13-transactions.c	/^coap_register_as_transaction_handler()$/;"	f
+coap_remove_observer	er-coap-13-observing.c	/^coap_remove_observer(coap_observer_t *o)$/;"	f
+coap_remove_observer_by_client	er-coap-13-observing.c	/^coap_remove_observer_by_client(uip_ipaddr_t *addr, uint16_t port)$/;"	f
+coap_remove_observer_by_mid	er-coap-13-observing.c	/^coap_remove_observer_by_mid(uip_ipaddr_t *addr, uint16_t port, uint16_t mid)$/;"	f
+coap_remove_observer_by_token	er-coap-13-observing.c	/^coap_remove_observer_by_token(uip_ipaddr_t *addr, uint16_t port, uint8_t *token, size_t token_len)$/;"	f
+coap_remove_observer_by_url	er-coap-13-observing.c	/^coap_remove_observer_by_url(uip_ipaddr_t *addr, uint16_t port, const char *url)$/;"	f
+coap_rest_implementation	er-coap-13-engine.c	/^const struct rest_implementation coap_rest_implementation = {$/;"	v	typeref:struct:rest_implementation
+coap_send_message	er-coap-13.c	/^coap_send_message(uip_ipaddr_t *addr, uint16_t port, uint8_t *data, uint16_t length)$/;"	f
+coap_send_transaction	er-coap-13-transactions.c	/^coap_send_transaction(coap_transaction_t *t)$/;"	f
+coap_separate	er-coap-13-separate.h	/^typedef struct coap_separate {$/;"	s
+coap_separate_accept	er-coap-13-separate.c	/^coap_separate_accept(void *request, coap_separate_t *separate_store)$/;"	f
+coap_separate_reject	er-coap-13-separate.c	/^coap_separate_reject()$/;"	f
+coap_separate_resume	er-coap-13-separate.c	/^coap_separate_resume(void *response, coap_separate_t *separate_store, uint8_t code)$/;"	f
+coap_separate_t	er-coap-13-separate.h	/^} coap_separate_t;$/;"	t	typeref:struct:coap_separate
+coap_serialize_array_option	er-coap-13.c	/^coap_serialize_array_option(unsigned int number, unsigned int current_number, uint8_t *buffer, uint8_t *array, size_t length, char split_char)$/;"	f	file:
+coap_serialize_int_option	er-coap-13.c	/^coap_serialize_int_option(unsigned int number, unsigned int current_number, uint8_t *buffer, uint32_t value)$/;"	f	file:
+coap_serialize_message	er-coap-13.c	/^coap_serialize_message(void *packet, uint8_t *buffer)$/;"	f
+coap_set_header_accept	er-coap-13.c	/^coap_set_header_accept(void *packet, uint16_t accept)$/;"	f
+coap_set_header_block1	er-coap-13.c	/^coap_set_header_block1(void *packet, uint32_t num, uint8_t more, uint16_t size)$/;"	f
+coap_set_header_block2	er-coap-13.c	/^coap_set_header_block2(void *packet, uint32_t num, uint8_t more, uint16_t size)$/;"	f
+coap_set_header_content_type	er-coap-13.c	/^coap_set_header_content_type(void *packet, unsigned int content_type)$/;"	f
+coap_set_header_etag	er-coap-13.c	/^coap_set_header_etag(void *packet, const uint8_t *etag, size_t etag_len)$/;"	f
+coap_set_header_if_match	er-coap-13.c	/^coap_set_header_if_match(void *packet, const uint8_t *etag, size_t etag_len)$/;"	f
+coap_set_header_if_none_match	er-coap-13.c	/^coap_set_header_if_none_match(void *packet)$/;"	f
+coap_set_header_location_path	er-coap-13.c	/^coap_set_header_location_path(void *packet, const char *path)$/;"	f
+coap_set_header_location_query	er-coap-13.c	/^coap_set_header_location_query(void *packet, const char *query)$/;"	f
+coap_set_header_max_age	er-coap-13.c	/^coap_set_header_max_age(void *packet, uint32_t age)$/;"	f
+coap_set_header_observe	er-coap-13.c	/^coap_set_header_observe(void *packet, uint32_t observe)$/;"	f
+coap_set_header_proxy_uri	er-coap-13.c	/^coap_set_header_proxy_uri(void *packet, const char *uri)$/;"	f
+coap_set_header_size	er-coap-13.c	/^coap_set_header_size(void *packet, uint32_t size)$/;"	f
+coap_set_header_token	er-coap-13.c	/^coap_set_header_token(void *packet, const uint8_t *token, size_t token_len)$/;"	f
+coap_set_header_uri_host	er-coap-13.c	/^coap_set_header_uri_host(void *packet, const char *host)$/;"	f
+coap_set_header_uri_path	er-coap-13.c	/^coap_set_header_uri_path(void *packet, const char *path)$/;"	f
+coap_set_header_uri_query	er-coap-13.c	/^coap_set_header_uri_query(void *packet, const char *query)$/;"	f
+coap_set_option_header	er-coap-13.c	/^coap_set_option_header(unsigned int delta, size_t length, uint8_t *buffer)$/;"	f	file:
+coap_set_payload	er-coap-13.c	/^coap_set_payload(void *packet, const void *payload, size_t length)$/;"	f
+coap_set_service_callback	er-coap-13-engine.c	/^coap_set_service_callback(service_callback_t callback)$/;"	f
+coap_set_status_code	er-coap-13.c	/^coap_set_status_code(void *packet, unsigned int code)$/;"	f
+coap_status_t	er-coap-13.h	/^} coap_status_t;$/;"	t	typeref:enum:__anon4
+coap_transaction	er-coap-13-transactions.h	/^typedef struct coap_transaction {$/;"	s
+coap_transaction_t	er-coap-13-transactions.h	/^} coap_transaction_t;$/;"	t	typeref:struct:coap_transaction
+code	er-coap-13.h	/^  uint8_t code;$/;"	m	struct:__anon7
+content_type	er-coap-13.h	/^  coap_content_type_t content_type; \/* Parse options once and store; allows setting options in random order  *\/$/;"	m	struct:__anon7
+current_mid	er-coap-13.c	/^static uint16_t current_mid = 0;$/;"	v	file:
+etag	er-coap-13.h	/^  uint8_t etag[COAP_ETAG_LEN];$/;"	m	struct:__anon7
+etag_len	er-coap-13.h	/^  uint8_t etag_len;$/;"	m	struct:__anon7
+if_match	er-coap-13.h	/^  uint8_t if_match[COAP_ETAG_LEN];$/;"	m	struct:__anon7
+if_match_len	er-coap-13.h	/^  uint8_t if_match_len;$/;"	m	struct:__anon7
+if_none_match	er-coap-13.h	/^  uint8_t if_none_match;$/;"	m	struct:__anon7
+last_mid	er-coap-13-observing.h	/^  uint16_t last_mid;$/;"	m	struct:coap_observer
+location_path	er-coap-13.h	/^  const char *location_path;$/;"	m	struct:__anon7
+location_path_len	er-coap-13.h	/^  size_t location_path_len;$/;"	m	struct:__anon7
+location_query	er-coap-13.h	/^  const char *location_query;$/;"	m	struct:__anon7
+location_query_len	er-coap-13.h	/^  size_t location_query_len;$/;"	m	struct:__anon7
+max_age	er-coap-13.h	/^  uint32_t max_age;$/;"	m	struct:__anon7
+mid	er-coap-13-separate.h	/^  uint16_t mid;$/;"	m	struct:coap_separate
+mid	er-coap-13-transactions.h	/^  uint16_t mid;$/;"	m	struct:coap_transaction
+mid	er-coap-13.h	/^  uint16_t mid;$/;"	m	struct:__anon7
+next	er-coap-13-observing.h	/^  struct coap_observer *next; \/* for LIST *\/$/;"	m	struct:coap_observer	typeref:struct:coap_observer::coap_observer
+next	er-coap-13-transactions.h	/^  struct coap_transaction *next; \/* for LIST *\/$/;"	m	struct:coap_transaction	typeref:struct:coap_transaction::coap_transaction
+observe	er-coap-13.h	/^  uint16_t observe;$/;"	m	struct:__anon7
+observers_list	er-coap-13-observing.c	/^LIST(observers_list);$/;"	v
+options	er-coap-13.h	/^  uint8_t options[COAP_OPTION_PROXY_URI \/ OPTION_MAP_SIZE + 1]; \/* Bitmap to check if option is set *\/$/;"	m	struct:__anon7
+packet	er-coap-13-transactions.h	/^  uint8_t packet[COAP_MAX_PACKET_SIZE+1]; \/* +1 for the terminating '\\0' to simply and savely use snprintf(buf, len+1, "", ...) in the resource handler. *\/$/;"	m	struct:coap_transaction
+packet_len	er-coap-13-transactions.h	/^  uint16_t packet_len;$/;"	m	struct:coap_transaction
+payload	er-coap-13.h	/^  uint8_t *payload;$/;"	m	struct:__anon7
+payload_len	er-coap-13.h	/^  uint16_t payload_len;$/;"	m	struct:__anon7
+port	er-coap-13-observing.h	/^  uint16_t port;$/;"	m	struct:coap_observer
+port	er-coap-13-separate.h	/^  uint16_t port;$/;"	m	struct:coap_separate
+port	er-coap-13-transactions.h	/^  uint16_t port;$/;"	m	struct:coap_transaction
+process	er-coap-13-engine.h	/^    struct process *process;$/;"	m	struct:request_state_t	typeref:struct:request_state_t::process
+proxy_uri	er-coap-13.h	/^  const char *proxy_uri;$/;"	m	struct:__anon7
+proxy_uri_len	er-coap-13.h	/^  size_t proxy_uri_len;$/;"	m	struct:__anon7
+pt	er-coap-13-engine.h	/^    struct pt pt;$/;"	m	struct:request_state_t	typeref:struct:request_state_t::pt
+refresh_timer	er-coap-13-observing.h	/^  struct stimer refresh_timer;$/;"	m	struct:coap_observer	typeref:struct:coap_observer::stimer
+request_state_t	er-coap-13-engine.h	/^struct request_state_t {$/;"	s
+response	er-coap-13-engine.h	/^    coap_packet_t *response;$/;"	m	struct:request_state_t
+rest_request_t	er-coap-13-engine.h	/^typedef coap_packet_t rest_request_t;$/;"	t
+rest_response_t	er-coap-13-engine.h	/^typedef coap_packet_t rest_response_t;$/;"	t
+retrans_counter	er-coap-13-transactions.h	/^  uint8_t retrans_counter;$/;"	m	struct:coap_transaction
+retrans_timer	er-coap-13-transactions.h	/^  struct etimer retrans_timer;$/;"	m	struct:coap_transaction	typeref:struct:coap_transaction::etimer
+service_cbk	er-coap-13-engine.c	/^static service_callback_t service_cbk = NULL;$/;"	v	file:
+size	er-coap-13.h	/^  uint32_t size;$/;"	m	struct:__anon7
+token	er-coap-13-observing.h	/^  uint8_t token[COAP_TOKEN_LEN];$/;"	m	struct:coap_observer
+token	er-coap-13-separate.h	/^  uint8_t token[COAP_TOKEN_LEN];$/;"	m	struct:coap_separate
+token	er-coap-13.h	/^  uint8_t token[COAP_TOKEN_LEN];$/;"	m	struct:__anon7
+token_len	er-coap-13-observing.h	/^  uint8_t token_len;$/;"	m	struct:coap_observer
+token_len	er-coap-13-separate.h	/^  uint8_t token_len;$/;"	m	struct:coap_separate
+token_len	er-coap-13.h	/^  uint8_t token_len;$/;"	m	struct:__anon7
+transaction	er-coap-13-engine.h	/^    coap_transaction_t *transaction;$/;"	m	struct:request_state_t
+transaction_handler_process	er-coap-13-transactions.c	/^static struct process *transaction_handler_process = NULL;$/;"	v	typeref:struct:process	file:
+transactions_list	er-coap-13-transactions.c	/^LIST(transactions_list);$/;"	v
+type	er-coap-13-separate.h	/^  coap_message_type_t type;$/;"	m	struct:coap_separate
+type	er-coap-13.h	/^  coap_message_type_t type;$/;"	m	struct:__anon7
+udp_conn	er-coap-13.c	/^static struct uip_udp_conn *udp_conn = NULL;$/;"	v	typeref:struct:uip_udp_conn	file:
+uri_host	er-coap-13.h	/^  const char *uri_host;$/;"	m	struct:__anon7
+uri_host_len	er-coap-13.h	/^  size_t uri_host_len;$/;"	m	struct:__anon7
+uri_path	er-coap-13.h	/^  const char *uri_path;$/;"	m	struct:__anon7
+uri_path_len	er-coap-13.h	/^  size_t uri_path_len;$/;"	m	struct:__anon7
+uri_port	er-coap-13.h	/^  uint16_t uri_port;$/;"	m	struct:__anon7
+uri_query	er-coap-13.h	/^  const char *uri_query;$/;"	m	struct:__anon7
+uri_query_len	er-coap-13.h	/^  size_t uri_query_len;$/;"	m	struct:__anon7
+url	er-coap-13-observing.h	/^  const char *url;$/;"	m	struct:coap_observer
+version	er-coap-13.h	/^  uint8_t version;$/;"	m	struct:__anon7
+well_known_core_handler	er-coap-13-engine.c	/^well_known_core_handler(void* request, void* response, uint8_t *buffer, uint16_t preferred_size, int32_t *offset)$/;"	f
